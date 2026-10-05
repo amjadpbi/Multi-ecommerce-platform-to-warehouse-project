@@ -1,0 +1,5 @@
+location_id,location_name,location_type,state_or_region,active_flag
+GA_DC,Georgia Distribution Center,DC,Georgia,Y
+CA_DC,California Distribution Center,DC,California,Y
+3PL,Third Party Logistics,3PL,New Jersey,Y
+FBA_POOL,Amazon FBA Inventory Pool,FBA,Multiple,Y

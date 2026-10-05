@@ -1,0 +1,13 @@
+supplier_id,supplier_name,supplier_country,lead_time_days,active_flag
+SUP-001,Supplier 01,Vietnam,33,Y
+SUP-002,Supplier 02,India,51,Y
+SUP-003,Supplier 03,USA,16,Y
+SUP-004,Supplier 04,Mexico,46,Y
+SUP-005,Supplier 05,Vietnam,52,Y
+SUP-006,Supplier 06,Mexico,14,Y
+SUP-007,Supplier 07,USA,26,Y
+SUP-008,Supplier 08,Vietnam,59,Y
+SUP-009,Supplier 09,Vietnam,23,Y
+SUP-010,Supplier 10,USA,21,Y
+SUP-011,Supplier 11,USA,28,Y
+SUP-012,Supplier 12,China,40,Y

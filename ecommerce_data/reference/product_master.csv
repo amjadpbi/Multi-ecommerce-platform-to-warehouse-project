@@ -1,0 +1,121 @@
+sku,product_name,category,subcategory,supplier_id,unit_cost_usd,list_price_usd,launch_date,discontinue_date,active_flag
+SKU-0001,Outdoor Furniture Product 001,Outdoor,Outdoor Furniture,SUP-002,161.98,373.81,2025-06-11,,Y
+SKU-0002,Lighting Product 002,Home Decor,Lighting,SUP-008,83.18,151.18,2024-12-18,,Y
+SKU-0003,Rugs Product 003,Textiles,Rugs,SUP-001,14.93,34.67,2025-07-01,,Y
+SKU-0004,Cushions Product 004,Textiles,Cushions,SUP-008,94.27,132.19,2025-03-19,,Y
+SKU-0005,Tables Product 005,Furniture,Tables,SUP-001,45.56,104.39,2024-11-26,,Y
+SKU-0006,Cushions Product 006,Textiles,Cushions,SUP-012,80.74,172.56,2024-11-14,,Y
+SKU-0007,Lighting Product 007,Home Decor,Lighting,SUP-002,127.93,251.25,2025-01-23,,Y
+SKU-0008,Throws Product 008,Textiles,Throws,SUP-005,27.40,46.42,2025-06-24,,Y
+SKU-0009,Outdoor Furniture Product 009,Outdoor,Outdoor Furniture,SUP-007,67.20,175.32,2024-11-14,,Y
+SKU-0010,Tables Product 010,Furniture,Tables,SUP-007,146.77,321.65,2025-03-04,,Y
+SKU-0011,Cookware Product 011,Kitchen,Cookware,SUP-001,122.24,273.36,2024-11-24,,Y
+SKU-0012,Chairs Product 012,Furniture,Chairs,SUP-007,33.47,73.76,2025-04-01,,Y
+SKU-0013,Outdoor Furniture Product 013,Outdoor,Outdoor Furniture,SUP-010,159.49,311.19,2024-11-03,,Y
+SKU-0014,Chairs Product 014,Furniture,Chairs,SUP-011,158.02,369.38,2025-05-19,,Y
+SKU-0015,Throws Product 015,Textiles,Throws,SUP-001,118.41,228.63,2025-06-09,2025-08-25,Y
+SKU-0016,Outdoor Accessories Product 016,Outdoor,Outdoor Accessories,SUP-005,70.53,128.44,2024-11-18,,Y
+SKU-0017,Cookware Product 017,Kitchen,Cookware,SUP-002,44.83,72.01,2024-12-01,,Y
+SKU-0018,Chairs Product 018,Furniture,Chairs,SUP-004,94.23,163.97,2025-03-20,,Y
+SKU-0019,Throws Product 019,Textiles,Throws,SUP-008,22.27,47.91,2024-11-05,,Y
+SKU-0020,Cookware Product 020,Kitchen,Cookware,SUP-001,96.33,238.53,2024-12-13,,Y
+SKU-0021,Serveware Product 021,Kitchen,Serveware,SUP-001,49.60,124.08,2025-02-19,,Y
+SKU-0022,Throws Product 022,Textiles,Throws,SUP-008,84.51,220.14,2025-02-27,,Y
+SKU-0023,Chairs Product 023,Furniture,Chairs,SUP-003,110.89,175.23,2025-05-27,,Y
+SKU-0024,Cookware Product 024,Kitchen,Cookware,SUP-008,16.86,33.64,2024-12-13,,Y
+SKU-0025,Outdoor Accessories Product 025,Outdoor,Outdoor Accessories,SUP-005,51.15,133.97,2025-06-11,,Y
+SKU-0026,Decorative Objects Product 026,Home Decor,Decorative Objects,SUP-010,112.29,268.02,2024-12-04,,Y
+SKU-0027,Cookware Product 027,Kitchen,Cookware,SUP-001,29.44,68.07,2025-03-09,2026-03-16,Y
+SKU-0028,Garden Product 028,Outdoor,Garden,SUP-008,35.28,82.13,2024-12-04,,Y
+SKU-0029,Throws Product 029,Textiles,Throws,SUP-007,101.40,139.19,2025-04-19,,Y
+SKU-0030,Tables Product 030,Furniture,Tables,SUP-001,87.23,227.18,2024-12-29,,Y
+SKU-0031,Wall Art Product 031,Home Decor,Wall Art,SUP-007,150.86,334.50,2024-11-15,,Y
+SKU-0032,Serveware Product 032,Kitchen,Serveware,SUP-004,91.63,189.96,2025-01-09,,Y
+SKU-0033,Outdoor Accessories Product 033,Outdoor,Outdoor Accessories,SUP-002,44.97,118.15,2025-03-10,,Y
+SKU-0034,Storage Product 034,Furniture,Storage,SUP-001,144.31,384.09,2025-05-24,,Y
+SKU-0035,Outdoor Furniture Product 035,Outdoor,Outdoor Furniture,SUP-002,63.51,156.28,2025-02-05,,Y
+SKU-0036,Storage Product 036,Furniture,Storage,SUP-004,144.19,292.35,2024-11-28,,Y
+SKU-0037,Kitchen Tools Product 037,Kitchen,Kitchen Tools,SUP-010,49.53,70.57,2025-02-06,,Y
+SKU-0038,Chairs Product 038,Furniture,Chairs,SUP-005,106.73,270.94,2025-01-16,2026-02-12,Y
+SKU-0039,Cookware Product 039,Kitchen,Cookware,SUP-005,48.63,99.36,2025-02-13,,Y
+SKU-0040,Decorative Objects Product 040,Home Decor,Decorative Objects,SUP-009,132.55,241.90,2025-06-19,,Y
+SKU-0041,Cookware Product 041,Kitchen,Cookware,SUP-004,139.82,345.41,2024-11-25,,Y
+SKU-0042,Garden Product 042,Outdoor,Garden,SUP-008,162.97,414.07,2025-03-20,,Y
+SKU-0043,Decorative Objects Product 043,Home Decor,Decorative Objects,SUP-007,88.94,151.92,2025-02-15,,Y
+SKU-0044,Lighting Product 044,Home Decor,Lighting,SUP-001,165.03,265.50,2025-03-16,,Y
+SKU-0045,Decorative Objects Product 045,Home Decor,Decorative Objects,SUP-003,40.64,89.70,2025-02-18,,Y
+SKU-0046,Outdoor Furniture Product 046,Outdoor,Outdoor Furniture,SUP-010,59.16,144.03,2025-03-29,,Y
+SKU-0047,Serveware Product 047,Kitchen,Serveware,SUP-007,11.70,16.63,2025-02-09,,Y
+SKU-0048,Throws Product 048,Textiles,Throws,SUP-003,103.07,188.61,2025-03-29,,Y
+SKU-0049,Chairs Product 049,Furniture,Chairs,SUP-007,92.35,232.48,2025-03-17,,Y
+SKU-0050,Throws Product 050,Textiles,Throws,SUP-007,167.98,412.72,2024-11-17,2026-06-28,Y
+SKU-0051,Outdoor Accessories Product 051,Outdoor,Outdoor Accessories,SUP-004,64.24,100.57,2025-02-15,,Y
+SKU-0052,Serveware Product 052,Kitchen,Serveware,SUP-002,135.25,275.99,2025-01-10,,Y
+SKU-0053,Garden Product 053,Outdoor,Garden,SUP-007,156.41,368.45,2025-05-18,,Y
+SKU-0054,Chairs Product 054,Furniture,Chairs,SUP-003,88.17,230.31,2025-03-11,,Y
+SKU-0055,Outdoor Accessories Product 055,Outdoor,Outdoor Accessories,SUP-002,22.79,31.20,2025-02-03,,Y
+SKU-0056,Storage Product 056,Furniture,Storage,SUP-009,97.71,259.22,2025-04-02,,Y
+SKU-0057,Rugs Product 057,Textiles,Rugs,SUP-011,179.46,479.15,2025-05-05,,Y
+SKU-0058,Storage Product 058,Furniture,Storage,SUP-004,172.87,281.93,2025-06-29,,Y
+SKU-0059,Throws Product 059,Textiles,Throws,SUP-012,77.54,132.30,2025-02-11,,Y
+SKU-0060,Decorative Objects Product 060,Home Decor,Decorative Objects,SUP-009,160.79,249.87,2024-12-23,,Y
+SKU-0061,Garden Product 061,Outdoor,Garden,SUP-009,84.40,216.94,2025-01-10,,Y
+SKU-0062,Chairs Product 062,Furniture,Chairs,SUP-007,10.88,15.91,2025-02-22,,Y
+SKU-0063,Cookware Product 063,Kitchen,Cookware,SUP-008,9.46,25.33,2025-01-09,,Y
+SKU-0064,Cookware Product 064,Kitchen,Cookware,SUP-011,11.08,26.36,2025-05-07,,Y
+SKU-0065,Cushions Product 065,Textiles,Cushions,SUP-004,99.65,147.87,2024-11-13,,Y
+SKU-0066,Cushions Product 066,Textiles,Cushions,SUP-009,44.95,77.32,2025-04-14,,Y
+SKU-0067,Wall Art Product 067,Home Decor,Wall Art,SUP-007,25.96,55.82,2025-05-27,,Y
+SKU-0068,Outdoor Accessories Product 068,Outdoor,Outdoor Accessories,SUP-011,44.68,83.24,2025-01-24,2026-02-01,Y
+SKU-0069,Garden Product 069,Outdoor,Garden,SUP-011,153.51,242.65,2025-04-01,,Y
+SKU-0070,Kitchen Tools Product 070,Kitchen,Kitchen Tools,SUP-002,178.23,243.31,2025-02-05,2026-05-26,Y
+SKU-0071,Garden Product 071,Outdoor,Garden,SUP-003,126.71,328.05,2025-02-05,,Y
+SKU-0072,Outdoor Accessories Product 072,Outdoor,Outdoor Accessories,SUP-001,108.48,166.51,2025-06-01,,Y
+SKU-0073,Storage Product 073,Furniture,Storage,SUP-003,67.92,126.67,2025-03-28,2026-01-13,Y
+SKU-0074,Garden Product 074,Outdoor,Garden,SUP-010,59.16,121.50,2025-04-19,,Y
+SKU-0075,Outdoor Furniture Product 075,Outdoor,Outdoor Furniture,SUP-002,12.57,28.26,2025-05-20,,Y
+SKU-0076,Chairs Product 076,Furniture,Chairs,SUP-005,51.66,105.87,2024-11-16,,Y
+SKU-0077,Lighting Product 077,Home Decor,Lighting,SUP-011,112.46,276.81,2025-01-06,,Y
+SKU-0078,Storage Product 078,Furniture,Storage,SUP-007,88.28,172.63,2025-04-13,,Y
+SKU-0079,Garden Product 079,Outdoor,Garden,SUP-011,19.18,36.01,2025-03-10,,Y
+SKU-0080,Decorative Objects Product 080,Home Decor,Decorative Objects,SUP-004,46.81,94.29,2025-02-18,,Y
+SKU-0081,Kitchen Tools Product 081,Kitchen,Kitchen Tools,SUP-001,21.03,49.17,2024-11-17,,Y
+SKU-0082,Tables Product 082,Furniture,Tables,SUP-009,170.69,278.76,2025-02-17,,Y
+SKU-0083,Wall Art Product 083,Home Decor,Wall Art,SUP-005,99.30,178.12,2025-01-19,,Y
+SKU-0084,Decorative Objects Product 084,Home Decor,Decorative Objects,SUP-003,177.02,379.38,2025-05-06,,Y
+SKU-0085,Wall Art Product 085,Home Decor,Wall Art,SUP-010,65.99,162.70,2025-02-03,,Y
+SKU-0086,Lighting Product 086,Home Decor,Lighting,SUP-002,10.79,22.45,2025-01-25,,Y
+SKU-0087,Kitchen Tools Product 087,Kitchen,Kitchen Tools,SUP-011,103.51,194.23,2025-01-30,,Y
+SKU-0088,Chairs Product 088,Furniture,Chairs,SUP-012,67.25,142.18,2024-12-24,,Y
+SKU-0089,Chairs Product 089,Furniture,Chairs,SUP-007,12.71,26.92,2025-01-20,,Y
+SKU-0090,Garden Product 090,Outdoor,Garden,SUP-002,163.84,275.27,2024-12-25,,Y
+SKU-0091,Garden Product 091,Outdoor,Garden,SUP-007,94.42,180.03,2025-06-11,,Y
+SKU-0092,Outdoor Furniture Product 092,Outdoor,Outdoor Furniture,SUP-006,8.49,16.75,2025-01-05,,Y
+SKU-0093,Storage Product 093,Furniture,Storage,SUP-005,138.30,295.21,2024-12-27,,Y
+SKU-0094,Tables Product 094,Furniture,Tables,SUP-005,143.39,306.34,2025-06-14,,Y
+SKU-0095,Garden Product 095,Outdoor,Garden,SUP-006,30.64,71.76,2025-06-07,,Y
+SKU-0096,Garden Product 096,Outdoor,Garden,SUP-004,22.98,32.13,2025-02-01,,Y
+SKU-0097,Outdoor Accessories Product 097,Outdoor,Outdoor Accessories,SUP-003,85.52,173.91,2025-02-21,,Y
+SKU-0098,Chairs Product 098,Furniture,Chairs,SUP-012,137.58,348.25,2025-03-09,,Y
+SKU-0099,Cookware Product 099,Kitchen,Cookware,SUP-002,73.25,178.21,2024-12-21,,Y
+SKU-0100,Cushions Product 100,Textiles,Cushions,SUP-008,154.65,261.61,2025-06-09,,Y
+SKU-0101,Decorative Objects Product 101,Home Decor,Decorative Objects,SUP-010,106.32,172.17,2024-12-26,,Y
+SKU-0102,Tables Product 102,Furniture,Tables,SUP-006,13.24,20.46,2025-03-28,,Y
+SKU-0103,Chairs Product 103,Furniture,Chairs,SUP-009,179.69,353.71,2025-03-18,,Y
+SKU-0104,Outdoor Furniture Product 104,Outdoor,Outdoor Furniture,SUP-006,125.20,206.89,2025-06-07,,Y
+SKU-0105,Tables Product 105,Furniture,Tables,SUP-006,64.39,113.32,2025-03-21,,Y
+SKU-0106,Garden Product 106,Outdoor,Garden,SUP-008,65.62,98.58,2025-07-01,,Y
+SKU-0107,Decorative Objects Product 107,Home Decor,Decorative Objects,SUP-012,173.63,381.33,2025-01-06,,Y
+SKU-0108,Serveware Product 108,Kitchen,Serveware,SUP-012,58.51,149.80,2025-05-07,,Y
+SKU-0109,Serveware Product 109,Kitchen,Serveware,SUP-003,165.77,392.03,2024-11-28,,Y
+SKU-0110,Throws Product 110,Textiles,Throws,SUP-004,32.08,70.09,2024-11-24,,Y
+SKU-0111,Throws Product 111,Textiles,Throws,SUP-005,94.37,240.47,2025-04-08,,Y
+SKU-0112,Storage Product 112,Furniture,Storage,SUP-008,156.13,218.79,2025-05-23,,Y
+SKU-0113,Rugs Product 113,Textiles,Rugs,SUP-009,120.84,163.33,2025-01-03,,Y
+SKU-0114,Throws Product 114,Textiles,Throws,SUP-002,98.56,228.47,2024-12-23,,Y
+SKU-0115,Outdoor Furniture Product 115,Outdoor,Outdoor Furniture,SUP-012,137.31,274.25,2025-06-14,,Y
+SKU-0116,Storage Product 116,Furniture,Storage,SUP-005,177.11,431.79,2025-01-27,,Y
+SKU-0117,Outdoor Accessories Product 117,Outdoor,Outdoor Accessories,SUP-001,43.91,103.21,2024-12-14,,Y
+SKU-0118,Lighting Product 118,Home Decor,Lighting,SUP-001,92.83,227.30,2025-03-23,,Y
+SKU-0119,Decorative Objects Product 119,Home Decor,Decorative Objects,SUP-011,140.62,264.28,2025-02-12,,Y
+SKU-0120,Lighting Product 120,Home Decor,Lighting,SUP-005,135.23,285.48,2025-02-09,,Y

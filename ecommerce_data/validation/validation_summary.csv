@@ -1,0 +1,11 @@
+metric,value
+generated_skus,120
+generated_orders,5000
+generated_order_lines,9951
+purchase_orders,30
+purchase_order_lines,166
+refund_events,300
+intentional_CA_echo_rows,7
+intentional_CA_drift_rows,22
+intentional_Shopify_CAD_orders,9
+validation_errors,0
