@@ -37,6 +37,12 @@ Power BI Report
 
 The project deliberately uses both Lakehouse and Warehouse layers to demonstrate practical Microsoft Fabric data engineering and analytics patterns.
 
+### End-to-End Solution
+
+![Nexa Commerce end-to-end architecture](docs/nexa-commerce-architecture.svg)
+
+This visual summarizes the solution from source systems through Bronze, Silver, Warehouse, Semantic Model, and the Power BI serving layer.
+
 ## Business Scenario
 
 **Nexa Commerce** is a fictional multi-channel e-commerce importer created as a portfolio case study, based primarily on a real-world e-commerce data engineering brief.
@@ -285,11 +291,6 @@ Focus areas:
 
 The report structure is deliberately kept focused rather than adding pages simply to increase page count.
 
-## Dashboard
-
-
-
-
 ## Fabric Environment
 
 ```text
@@ -301,7 +302,7 @@ Warehouse:  Nexa_Warehouse
 ## Project Structure
 
 ```text
-Nexa-Fabric-Warehouse-Project/
+Multi-ecommerce-platform-to-warehouse-project/
 │
 ├── Notebooks/
 │   ├── NB_01_Bronze_Source_Ingestion.ipynb
@@ -309,8 +310,8 @@ Nexa-Fabric-Warehouse-Project/
 │   ├── NB_03_Silver_Transformation.ipynb
 │   └── NB_04_Warehouse_Modeling.ipynb
 │
-├── Warehouse/
-├── SemanticModel/
+├── ecommerce_data/
+├── docs/
 ├── report/
 └── README.md
 ```
@@ -326,6 +327,18 @@ Nexa-Fabric-Warehouse-Project/
 - Use surrogate keys to connect facts and dimensions.
 - Preserve source information when it cannot be reliably interpreted.
 - Design the report and required metrics before creating a large DAX layer.
+
+## Known Limitations
+
+The source data is synthetic and was generated primarily to exercise the end-to-end Fabric architecture. Some operational relationships are therefore not intended to provide production-level business reconciliation.
+
+Examples include:
+
+- Inventory-ledger movement versus order activity
+- Platform-reported advertising attribution versus warehouse sales
+- Other source relationships generated independently for scenario coverage
+
+These limitations are characteristics of the synthetic dataset rather than defects in the Fabric pipeline, warehouse model, or Power BI serving layer.
 
 ## Project Status
 
