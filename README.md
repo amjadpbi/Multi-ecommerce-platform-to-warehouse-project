@@ -1,5 +1,8 @@
 # Nexa Commerce — Fabric Warehouse & Analytics
 
+> **Portfolio case study · Synthetic data · Reporting period:** 2025-07-01 → 2026-06-30  
+> The data was synthetically generated to exercise realistic data-engineering and BI scenarios. Some values and relationships are intentionally scenario-driven and are not intended to represent real-world business behavior.
+
 <img width="1774" height="887" alt="Nexa Commerce Analytics Pipeline" src="https://github.com/user-attachments/assets/ded9fe8c-1367-4eed-bd83-8558d6ed9d65" />
 
 
