@@ -1,24 +1,47 @@
-# Nexa Commerce — Fabric Warehouse & Analytics
+# Nexa Commerce — Microsoft Fabric Data Warehouse & Analytics
 
-> **Portfolio case study · Synthetic data · Reporting period:** 2025-07-01 → 2026-06-30  
-> The data was synthetically generated to exercise realistic data-engineering and BI scenarios. Some values and relationships are intentionally scenario-driven and are not intended to represent real-world business behavior.
+> **End-to-end Microsoft Fabric portfolio project based on a freelance e-commerce data-engineering scenario.**
+>
+> Built a multi-source analytical platform that ingests synthetic e-commerce data into a Fabric Lakehouse, profiles and transforms it through Bronze and Silver layers, loads a dimensional Fabric Warehouse, and serves validated business analysis through a Semantic Model and Power BI.
 
-<img width="1774" height="887" alt="Nexa Commerce Analytics Pipeline" src="https://github.com/user-attachments/assets/ded9fe8c-1367-4eed-bd83-8558d6ed9d65" />
+**Project type:** Self-initiated portfolio implementation  
+**Data:** Synthetic  
+**Platform:** Microsoft Fabric  
+**Reporting:** Power BI  
+**Reporting period:** 2025-07-01 → 2026-06-30
 
+<img width="1774" height="887" alt="Nexa Commerce end-to-end Fabric architecture" src="https://github.com/user-attachments/assets/ded9fe8c-1367-4eed-bd83-8558d6ed9d65" />
 
-### Commercial Performance
-<img width="4150" height="2400" alt="Nexa_Warehouse_page-0001" src="https://github.com/user-attachments/assets/c4f05ee8-3cb2-4295-bb9f-1f8010f3973a" />
+## Business Scenario
 
+**Nexa Commerce** is a fictional multi-channel e-commerce importer based primarily on a real-world freelance data-engineering brief.
 
-### Inventory & Purchasing
-<img width="4150" height="2400" alt="Nexa_Warehouse_page-0002" src="https://github.com/user-attachments/assets/5ab7b4cd-963f-4e0e-a4d4-231ee16f8e14" />
+The requirement was to bring sales, advertising, inventory, purchasing, refunds, and reference data from multiple sources into one analytical environment.
 
+### What I Built
+
+- Multi-channel e-commerce source ingestion into a Fabric Lakehouse
+- Bronze source layer with SQL-based profiling
+- Silver transformation and standardization layer
+- Fabric Warehouse with dimensional modeling
+- Semantic Model for analytical consumption
+- Power BI serving layer focused on commercial performance and inventory/purchasing
+
+### Solution Scope
+
+The implementation intentionally narrows the original freelance scenario to a practical, hands-on Fabric solution. It covers sales, advertising, inventory, purchasing, refunds, warehouse modeling, semantic modeling, validation, and reporting while excluding areas such as full marketplace coverage, forecasting, PPC bid modeling, and streaming ingestion.
+
+### Report
+
+#### Commercial Performance
+
+<img width="4150" height="2400" alt="Nexa Commerce Commercial Performance" src="https://github.com/user-attachments/assets/c4f05ee8-3cb2-4295-bb9f-1f8010f3973a" />
+
+#### Inventory & Purchasing
+
+<img width="4150" height="2400" alt="Nexa Commerce Inventory and Purchasing" src="https://github.com/user-attachments/assets/5ab7b4cd-963f-4e0e-a4d4-231ee16f8e14" />
 
 An end-to-end Microsoft Fabric data engineering and BI portfolio project that transforms multi-channel e-commerce source data into a warehouse-backed Power BI analytics solution.
-
-The project demonstrates the complete flow from synthetic source systems through Lakehouse engineering, SQL/PySpark transformation, dimensional warehouse modeling, semantic modeling, and Power BI reporting.
-
-> **Status:** Fabric Warehouse and Semantic Model completed. Power BI is the serving layer of the solution.
 
 ## Architecture
 
