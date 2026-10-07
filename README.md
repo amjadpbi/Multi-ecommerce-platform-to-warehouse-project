@@ -1,4 +1,7 @@
 # Nexa Commerce — Fabric Warehouse & Analytics
+
+![Nexa Commerce end-to-end architecture](docs/nexa-commerce-architecture.svg)
+
 ### Commercial Performance
 <img width="4150" height="2400" alt="Nexa_Warehouse_page-0001" src="https://github.com/user-attachments/assets/c4f05ee8-3cb2-4295-bb9f-1f8010f3973a" />
 
