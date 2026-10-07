@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="760" viewBox="0 0 1800 760">
+<rect width="1800" height="760" fill="#ffffff"/>
+<text x="900" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#17324d">Nexa Commerce</text>
+<text x="900" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="600" fill="#36566f">End-to-End E-Commerce Analytics with Microsoft Fabric</text>
+<text x="900" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#6b7f90">From multiple synthetic sources to a unified analytics solution</text>
+
+<defs>
+ <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-opacity=".12"/></filter>
+ <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#6d7f90"/></marker>
+</defs>
+
+
+<g filter="url(#shadow)">
+ <rect x="25" y="160" width="270" height="420" rx="14" fill="#eaf5ff" stroke="#2878b5" stroke-width="2"/>
+ <rect x="25" y="160" width="270" height="58" rx="14" fill="#2878b5"/>
+ <rect x="25" y="204" width="270" height="14" fill="#2878b5"/>
+ <text x="160" y="196" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#fff">1. SOURCE DATA</text>
+ <circle cx="160" cy="275" r="43" fill="#fff" opacity=".9" stroke="#2878b5" stroke-width="2"/>
+ <text x="160" y="282" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#2878b5">SRC</text>
+ <text x="160" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#263746">Shopify • Amazon • Walmart</text><text x="160" y="407" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#263746">Advertising • Purchasing</text><text x="160" y="449" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#263746">Inventory • Refunds</text>
+ <text x="160" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#6b7f90">Synthetic inputs</text>
+</g>
+<g filter="url(#shadow)">
+ <rect x="320" y="160" width="270" height="420" rx="14" fill="#fdf2e8" stroke="#b56a2a" stroke-width="2"/>
+ <rect x="320" y="160" width="270" height="58" rx="14" fill="#b56a2a"/>
+ <rect x="320" y="204" width="270" height="14" fill="#b56a2a"/>
+ <text x="455" y="196" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#fff">2. LAKEHOUSE — BRONZE</text>
+ <circle cx="455" cy="275" r="43" fill="#fff" opacity=".9" stroke="#b56a2a" stroke-width="2"/>
+ <text x="455" y="282" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#b56a2a">BRZ</text>
+ <text x="455" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#263746">Ingest CSV sources</text><text x="455" y="407" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#263746">Preserve source structure</text><text x="455" y="449" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#263746">Delta tables</text>
+ <text x="455" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#6b7f90">Raw / preserved</text>
+</g>
+<g filter="url(#shadow)">
+ <rect x="615" y="160" width="270" height="420" rx="14" fill="#eef2f7" stroke="#47657d" stroke-width="2"/>
+ <rect x="615" y="160" width="270" height="58" rx="14" fill="#47657d"/>
+ <rect x="615" y="204" width="270" height="14" fill="#47657d"/>
+ <text x="750" y="196" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#fff">3. TRANSFORM — SILVER</text>
+ <circle cx="750" cy="275" r="43" fill="#fff" opacity=".9" stroke="#47657d" stroke-width="2"/>
+ <text x="750" y="282" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#47657d">SLV</text>
+ <text x="750" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#263746">SQL / PySpark</text><text x="750" y="407" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#263746">Standardize & validate</text><text x="750" y="449" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#263746">Prepare warehouse data</text>
+ <text x="750" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#6b7f90">Clean / conformed</text>
+</g>
+<g filter="url(#shadow)">
+ <rect x="910" y="160" width="270" height="420" rx="14" fill="#fff6d9" stroke="#bd8a00" stroke-width="2"/>
+ <rect x="910" y="160" width="270" height="58" rx="14" fill="#bd8a00"/>
+ <rect x="910" y="204" width="270" height="14" fill="#bd8a00"/>
+ <text x="1045" y="196" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#fff">4. FABRIC WAREHOUSE</text>
+ <circle cx="1045" cy="275" r="43" fill="#fff" opacity=".9" stroke="#bd8a00" stroke-width="2"/>
+ <text x="1045" y="282" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#bd8a00">WH</text>
+ <text x="1045" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#263746">Star schema</text><text x="1045" y="407" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#263746">Fact & dimension tables</text><text x="1045" y="449" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#263746">Business-ready model</text>
+ <text x="1045" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#6b7f90">Gold analytical layer</text>
+</g>
+<g filter="url(#shadow)">
+ <rect x="1205" y="160" width="270" height="420" rx="14" fill="#edf9f0" stroke="#2d7b52" stroke-width="2"/>
+ <rect x="1205" y="160" width="270" height="58" rx="14" fill="#2d7b52"/>
+ <rect x="1205" y="204" width="270" height="14" fill="#2d7b52"/>
+ <text x="1340" y="196" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#fff">5. SEMANTIC MODEL</text>
+ <circle cx="1340" cy="275" r="43" fill="#fff" opacity=".9" stroke="#2d7b52" stroke-width="2"/>
+ <text x="1340" y="282" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#2d7b52">SEM</text>
+ <text x="1340" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#263746">Relationships</text><text x="1340" y="407" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#263746">DAX measures</text><text x="1340" y="449" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#263746">Analytical layer</text>
+ <text x="1340" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#6b7f90">Relationships + measures</text>
+</g>
+<g filter="url(#shadow)">
+ <rect x="1500" y="160" width="270" height="420" rx="14" fill="#f3efff" stroke="#7052a5" stroke-width="2"/>
+ <rect x="1500" y="160" width="270" height="58" rx="14" fill="#7052a5"/>
+ <rect x="1500" y="204" width="270" height="14" fill="#7052a5"/>
+ <text x="1635" y="196" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#fff">6. POWER BI</text>
+ <circle cx="1635" cy="275" r="43" fill="#fff" opacity=".9" stroke="#7052a5" stroke-width="2"/>
+ <text x="1635" y="282" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#7052a5">BI</text>
+ <text x="1635" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#263746">Commercial Performance</text><text x="1635" y="407" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#263746">Inventory & Purchasing</text><text x="1635" y="449" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#263746">Serving layer</text>
+ <text x="1635" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#6b7f90">Business-facing analysis</text>
+</g>
+
+<line x1="295" y1="370" x2="318" y2="370" stroke="#6d7f90" stroke-width="4" marker-end="url(#arrow)"/><line x1="590" y1="370" x2="613" y2="370" stroke="#6d7f90" stroke-width="4" marker-end="url(#arrow)"/><line x1="885" y1="370" x2="908" y2="370" stroke="#6d7f90" stroke-width="4" marker-end="url(#arrow)"/><line x1="1180" y1="370" x2="1203" y2="370" stroke="#6d7f90" stroke-width="4" marker-end="url(#arrow)"/><line x1="1475" y1="370" x2="1498" y2="370" stroke="#6d7f90" stroke-width="4" marker-end="url(#arrow)"/>
+
+<rect x="25" y="620" width="1750" height="95" rx="16" fill="#eef7ff" stroke="#b7d7ef"/>
+<text x="75" y="658" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#17558a">KEY OUTCOMES</text>
+<text x="270" y="658" font-family="Arial, sans-serif" font-size="16" fill="#2f4858">Unified multi-source data</text>
+<text x="610" y="658" font-family="Arial, sans-serif" font-size="16" fill="#2f4858">Validated transformations</text>
+<text x="930" y="658" font-family="Arial, sans-serif" font-size="16" fill="#2f4858">Business-ready warehouse</text>
+<text x="1265" y="658" font-family="Arial, sans-serif" font-size="16" fill="#2f4858">Interactive Power BI analysis</text>
+<text x="1615" y="658" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#2f4858">End-to-end Fabric</text>
+<text x="900" y="695" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#6b7f90">Profile → Transform → Model → Validate → Serve</text>
+</svg>
