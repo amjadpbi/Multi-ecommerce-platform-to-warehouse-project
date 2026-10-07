@@ -1,6 +1,7 @@
 # Nexa Commerce — Fabric Warehouse & Analytics
 
-![Nexa Commerce end-to-end architecture](docs/nexa-commerce-architecture.svg)
+<img width="1774" height="887" alt="Nexa Commerce Analytics Pipeline" src="https://github.com/user-attachments/assets/ded9fe8c-1367-4eed-bd83-8558d6ed9d65" />
+
 
 ### Commercial Performance
 <img width="4150" height="2400" alt="Nexa_Warehouse_page-0001" src="https://github.com/user-attachments/assets/c4f05ee8-3cb2-4295-bb9f-1f8010f3973a" />
@@ -40,11 +41,6 @@ Power BI Report
 
 The project deliberately uses both Lakehouse and Warehouse layers to demonstrate practical Microsoft Fabric data engineering and analytics patterns.
 
-### End-to-End Solution
-
-![Nexa Commerce end-to-end architecture](docs/nexa-commerce-architecture.svg)
-
-This visual summarizes the solution from source systems through Bronze, Silver, Warehouse, Semantic Model, and the Power BI serving layer.
 
 ## Business Scenario
 
