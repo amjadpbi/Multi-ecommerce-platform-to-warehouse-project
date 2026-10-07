@@ -120,10 +120,6 @@ The business and source data are synthetic. The dataset was generated with Pytho
 - 20 advertising campaigns
 - 4 inventory locations
 
-**Reporting period:** 2025-07-01 → 2026-06-30
-
-> **Synthetic data disclaimer:** This report is the serving layer of an end-to-end data warehouse build. The data was synthetically generated to exercise realistic data-engineering and BI scenarios, so some values—for example, advertising attribution and refund coverage by channel—are not intended to represent real-world business behavior.
-
 The dataset intentionally contains source-quality scenarios such as:
 
 - Channel naming differences
