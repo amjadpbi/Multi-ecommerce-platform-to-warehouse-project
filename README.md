@@ -68,11 +68,9 @@ Power BI Report
 The project deliberately uses both Lakehouse and Warehouse layers to demonstrate practical Microsoft Fabric data engineering and analytics patterns.
 
 
-## Business Scenario
+## Source Coverage
 
-**Nexa Commerce** is a fictional multi-channel e-commerce importer created as a portfolio case study, based primarily on a real-world e-commerce data engineering brief.
-
-The analytical requirement is to bring sales, advertising, inventory, purchasing, refunds, and reference data from multiple sources into one analytical environment.
+The portfolio implementation covers the following source domains from the broader freelance scenario.
 
 ### Sales Channels
 
@@ -130,7 +128,7 @@ Batch processing is sufficient for this scenario.
 
 ## Synthetic Data
 
-The business and source data are synthetic. The dataset was generated with Python using deterministic business rules and a fixed seed to exercise realistic data-engineering and BI scenarios.
+The business scenario and source data are synthetic. The dataset was generated with Python using deterministic business rules and a fixed seed. The values are illustrative rather than real business results, while the source variations and operational conditions are intentionally designed to behave like realistic data-engineering and BI scenarios.
 
 ### Dataset scale
 
