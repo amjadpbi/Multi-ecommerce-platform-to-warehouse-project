@@ -1,4 +1,11 @@
 # Nexa Commerce — Fabric Warehouse & Analytics
+### Commercial Performance
+<img width="4150" height="2400" alt="Nexa_Warehouse_page-0001" src="https://github.com/user-attachments/assets/c4f05ee8-3cb2-4295-bb9f-1f8010f3973a" />
+
+
+### Inventory & Purchasing
+<img width="4150" height="2400" alt="Nexa_Warehouse_page-0002" src="https://github.com/user-attachments/assets/5ab7b4cd-963f-4e0e-a4d4-231ee16f8e14" />
+
 
 An end-to-end Microsoft Fabric data engineering and BI portfolio project that transforms multi-channel e-commerce source data into a warehouse-backed Power BI analytics solution.
 
@@ -280,11 +287,8 @@ The report structure is deliberately kept focused rather than adding pages simpl
 
 ## Dashboard
 
-### Commercial Performance
-<img width="4150" height="2400" alt="Nexa_Warehouse_page-0001" src="https://github.com/user-attachments/assets/335efb76-6217-43f7-bf34-507289b085fc" />
 
-### Inventory & Purchasing
-<img width="4150" height="2400" alt="Nexa_Warehouse_page-0002" src="https://github.com/user-attachments/assets/55c01560-a74c-4a0f-a0de-fb5c24a3a99f" />
+
 
 ## Fabric Environment
 
